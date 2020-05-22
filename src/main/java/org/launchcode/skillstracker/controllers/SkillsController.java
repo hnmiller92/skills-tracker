@@ -12,7 +12,7 @@ public class SkillsController {
     public String possibleLanguages() {
         return "<html>" +
                 "<body>" +
-                    "<h1>Skills Tracker</h2>" +
+                    "<h1>Skills Tracker</h1>" +
                     "<h2>We have a few skills we would like to learn, Here is the list!</h2>" +
                     "<ol>" +
                         "<li>Java</li>" +
